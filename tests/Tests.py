@@ -19,4 +19,4 @@ def assert_result(result, expected, test_name):
 test_calculation(League.IRON, Division.III, League.IRON, Division.II, 120)
 test_calculation(League.GOLD, Division.IV, League.GOLD, Division.I, 360)
 test_calculation(League.PLATINUM, Division.I, League.DIAMOND, Division.IV, 140)
-test_calculation(League.BRONZE, Division.III, League.GOLD, Division.II, 1100)
+test_calculation(League.BRONZE, Division.III, League.GOLD, Division.II, 1120)
