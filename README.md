@@ -1,5 +1,7 @@
 # python_lol_elo
 
+for the sake of simplicity Master, Grandmaster and Challenger tiers are omitted
+
 Division UP -> 140 (Platinum III -> Platinum II)
 
 League UP -> 160 (Silver I -> Gold IV)
